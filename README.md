@@ -1,7 +1,3 @@
-#Java Api Test
-This should work
+# Java Api Test
 
-###This is a test of using java to make an API call
--1
--2
--3
+### This is a test of using java to make an API call
